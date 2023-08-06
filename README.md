@@ -1,7 +1,8 @@
 # Rakamin Academy x Kimia Farma: Big Data Analytics 
 Tools: MySQL and Google Data Studio
+Dataset and more information: here
 
-## Objectives
+## 🔍 Objectives
 1. Create a datamart design.
 2. Create data visualization.
 
