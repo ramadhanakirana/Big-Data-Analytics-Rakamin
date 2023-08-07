@@ -27,4 +27,9 @@ From the existing dataset, it consists of customer (pelanggan), goods (barang), 
 <p align="center">Figure 3. Aggregate Table.</p>
 
 ### 📊 Data Visualization
-Data visualization can be seen [here].
+Data visualization can be seen [here].(https://lookerstudio.google.com/reporting/52208b69-1b1b-4869-b02c-04fb05127fa1)
+Figure 4 shows PT Kimia Farma's sales dashboard <br>
+<p align="center">
+<img width="450" alt="image" src="https://github.com/ramadhanakirana/Big-Data-Analytics-Rakamin/assets/102908444/bce68dcf-6935-413e-bed2-a3ec74376491">
+</p>
+<p align="center">Figure 4. Sales Dashboard.</p>
