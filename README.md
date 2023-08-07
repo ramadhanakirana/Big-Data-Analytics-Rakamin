@@ -33,3 +33,4 @@ Figure 4 shows PT Kimia Farma's sales dashboard <br>
 <img width="450" alt="image" src="https://github.com/ramadhanakirana/Big-Data-Analytics-Rakamin/assets/102908444/bce68dcf-6935-413e-bed2-a3ec74376491">
 </p>
 <p align="center">Figure 4. Sales Dashboard.</p>
+P.s. The dashboard contains optional matrices.
